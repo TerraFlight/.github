@@ -1,8 +1,15 @@
 ## Hi there 👋
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
+🙋‍♀️ A short introduction - what is your organization all about? <br>
+Our main goal is the automatic aquiration of Cyber Threat Intelligence (CTI) <br>
+ <br>
+
+🌈 Contribution guidelines - how can the community get involved? <br>
+If you have an idea just open an issue in our documentation repository <br>
+ <br>
+ 
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+https://github.com/terraflight/documentation
+
+
 
